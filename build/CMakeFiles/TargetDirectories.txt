@@ -1,3 +1,0 @@
-/home/spencer/mayhem-cmake-example/build/CMakeFiles/fuzzme.dir
-/home/spencer/mayhem-cmake-example/build/CMakeFiles/edit_cache.dir
-/home/spencer/mayhem-cmake-example/build/CMakeFiles/rebuild_cache.dir
